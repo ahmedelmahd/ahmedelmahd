@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahmedelmahd
+- 👀 I’m interested in coding in general and i am a beginner so i don't know which specifically i am into right now
+- 🌱 I’m currently learning cs50 by Harvard University
+- 💞️ I’m looking to collaborate on any project
+- 📫 you can contact me via gmail at : ahmedsamir.0120495@gmail.com

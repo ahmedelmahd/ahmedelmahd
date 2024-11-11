@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m enrolled in the ALX SWE program and am gradually becoming a 24/7 no-lifer programmer, YAY!
+🔭 I am a react front-end developer, working on multiple projects 24/7. What a life.
 
 
 ## 🌐 Socials:
